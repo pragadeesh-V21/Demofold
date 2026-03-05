@@ -1,3 +1,5 @@
 i accessed through the branch1 
 create both repository and file in the local sys
 alter in branch2git add .
+edit in main
+altered in branch1
